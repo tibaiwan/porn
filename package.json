@@ -16,7 +16,9 @@
     "fastclick": "^1.0.6",
     "vue": "^2.5.2",
     "vue-drawer-layout": "^0.3.1",
-    "vue-router": "^3.0.1"
+    "vue-router": "^3.0.1",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
