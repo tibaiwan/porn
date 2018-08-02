@@ -4,6 +4,7 @@
   "description": "A Vue.js project",
   "author": "tibaiwan <tibaiwan@qq.com>",
   "private": true,
+  "homepage": "https://tibaiwan.github.io/vue-porn/",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
